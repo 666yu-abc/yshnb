@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yshnb.app.workbuddy.host/sitemap.xml
+Sitemap: https://666yu-abc.github.io/yshnb/sitemap.xml
